@@ -13,7 +13,7 @@ export default function Footer(props) {
 
       <div className='col-6 bg-dark' style={darkstyle}> {props.totalamount}    </div>
        
-      
+      changes occured
     </div>
   )
 }
