@@ -9,7 +9,7 @@ export default function Footer(props) {
     }
   return (
     <div className='Row fixed-bottom'>
-      <button className='btn btn-danger col-6' onClick={()=>{props.resetbutton();}} >Reset</button>
+      <button className='btn btn-danger col-6' onClick={()=>{props.resetbutton();}} >Reset 22</button>
 
       <div className='col-6 bg-dark' style={darkstyle}> hello {props.totalamount}    </div>
        
